@@ -6,11 +6,11 @@ html {
 
 body {
   font-size: 1.125rem;
-  margin: 0;
   color: #000;
   background: #fafafa;
   line-height: 1.5;
 }
+
 main {
   margin: 0 auto;
   max-width: 1000px;
