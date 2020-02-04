@@ -1,0 +1,20 @@
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+*, :after, :before { box-sizing: inherit; }
+
+body {
+  font-size: 1.125rem;
+  margin: 0;
+  color: #000;
+  background: #fafafa;
+  line-height: 1.5;
+}
+main {
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+a { color: #1663bb; }
+a:hover, a:focus { color: #0f437e; }
